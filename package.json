@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/c-okeyo/delani_node_app/issues"
   },
+  "engines": {
+    "node": "19.4"
+  },
   "homepage": "https://github.com/c-okeyo/delani_node_app#readme"
 }
